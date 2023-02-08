@@ -6,7 +6,8 @@
 <img width="1428" alt="netflix squidgame irycode" src="https://user-images.githubusercontent.com/86270481/217372939-dc511bdc-c679-40bf-b277-38c69df20f5f.png">
 
 # Sign In Page
-<img width="1423" alt="sign in netflix screen" src="https://user-images.githubusercontent.com/86270481/217600670-09e9963a-ddd5-4531-b7ae-84e72543dfce.png">
+<img width="1423" alt="sign in netflix screen" src="https://user-images.githubusercontent.com/86270481/217600670-09e9963a-ddd5-4531-b7ae-84e72543dfce.png"
+alt="netflix squidgame irycode">
 
 # Languages
 <p align="center">
